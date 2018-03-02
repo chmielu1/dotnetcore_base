@@ -18,7 +18,7 @@ namespace MvcMovie.Controllers
         public IActionResult Index()
         {
             
-            string connStr = "server=192.168.30.138;user=ehour;database=ehour;port=3306;password=qwerty";
+            string connStr = "server=mysql-server;user=ehour;database=ehour;port=3306;password=qwerty";
             string sql = "SELECT * FROM USER_ROLE";
             MySqlConnection conn = new MySqlConnection(connStr);
    
