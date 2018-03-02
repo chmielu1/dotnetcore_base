@@ -1,0 +1,11 @@
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\OPENSHIFT.deps.json
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\OPENSHIFT.runtimeconfig.json
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\OPENSHIFT.runtimeconfig.dev.json
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\OPENSHIFT.dll
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\OPENSHIFT.pdb
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\OPENSHIFT.csproj.CoreCompileInputs.cache
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\OPENSHIFT.AssemblyInfoInputs.cache
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\OPENSHIFT.AssemblyInfo.cs
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\OPENSHIFT.dll
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\OPENSHIFT.pdb
+C:\Users\zenon\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\OPENSHIFT.csprojResolveAssemblyReference.cache
